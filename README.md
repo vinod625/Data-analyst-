@@ -24,4 +24,5 @@ I created this Sales Dashboard using Power BI to understand sales data in a simp
  * How to design a neat and professional dashboard  
  * Basic understanding of data visualization
    
-
+Dashboard Preview
+![Dashboard](dashboard.png)
