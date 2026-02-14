@@ -76,6 +76,8 @@ What I Learned
 
 
 This project demonstrates my ability to clean data, create measures, and design analytical dashboards using Power BI.
-Dashboard1.png
+Dashboard Preview
+![Cricket Dashboard](dashboard1.png)
+
 
 
